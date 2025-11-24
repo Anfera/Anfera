@@ -12,7 +12,7 @@ Actively seeking **Machine Learning / Applied Scientist / Research Scientist** r
 ---
 
 ## 🧠 Research Summary
-I work at the intersection of machine learning and remote sensing, developing generative and transformer-based pipelines for LiDAR and hyperspectral data. I’ve contributed to industry-scale ML deployments at **Apple** and **Vertex Pharmaceuticals**, and I lead research collaborations with **NASA** and academic partners. I enjoy bridging theory and practical implementation, with an emphasis on reproducible research and real-world impact.
+I work at the intersection of machine learning and remote sensing, developing generative and transformer-based pipelines for LiDAR and hyperspectral data. I’ve contributed to industry-scale ML deployments at **Apple** and **Vertex Pharmaceuticals**, and I lead research collaborations with **NASA** and academic partners in Poland and Ukraine. I enjoy bridging theory and practical implementation, with an emphasis on reproducible research and real-world impact.
 
 ---
 
