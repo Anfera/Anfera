@@ -16,14 +16,6 @@ I work at the intersection of machine learning and remote sensing, developing ge
 
 ---
 
-## 🔧 Technical Skills
-- **Languages:** Python, C, MATLAB, LabVIEW  
-- **ML & Deep Learning:** PyTorch, TensorFlow, Keras, GANs, Diffusion models, Transformers, multimodal neural networks  
-- **Domains:** Computer vision, LLMs, remote sensing, LiDAR, hyperspectral imaging, biomedical imaging, robotics  
-- **Tools:** Linux, Git, GIS, LaTeX  
-
----
-
 ## 🏢 Experience (selected)
 - **Apple – LLM & Generative AI Intern (2024)**  
   Developed RAG pipelines, fine-tuned Apple Intelligence models, and designed evaluation/stress-testing frameworks for production LLMs.
@@ -34,15 +26,6 @@ I work at the intersection of machine learning and remote sensing, developing ge
 - **University of Delaware – Research & Teaching Assistant (2022–present)**  
   ML research for LiDAR & hyperspectral data; published in IEEE journals; part of NASA CASALS.
 
----
-
-## 📚 Selected Publications
-- *Super-Resolved 3D Satellite LiDAR Imaging of Earth Via Generative Diffusion Models* (2024, submitted IEEE TGRS)  
-- *Super-Resolution of Satellite Lidars for Forest Studies Via GANs* (IGARSS 2024)  
-- *HyperHeight LiDAR Compressive Sampling and ML Reconstruction* (IEEE TGRS 2024)  
-- *Transformer End-to-End Optimization of Compressive Lidars Using Imaging Spectroscopy* (IEEE TGRS 2024)
-
-More on my [Google Scholar](https://scholar.google.com/citations?user=ZCrWcHEAAAAJ&hl).
 
 ---
 
