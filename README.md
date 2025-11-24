@@ -19,6 +19,10 @@ I work at the intersection of machine learning and remote sensing, developing ge
 ## 💻 Tech & Tools
 Python · PyTorch · TensorFlow · CUDA · Transformers · RAG · Docker · AWS/GCP · Git
 
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-orange?style=flat&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-green?style=flat&logo=git&logoColor=white)
+
 ---
 
 ## 🛰️ Datasets & Open Source
