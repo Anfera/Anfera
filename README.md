@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Andres Ramirez-Jaime
 
-**Ph.D. candidate in Electrical & Computer Engineering (University of Delaware)**  
+**Ph.D. in Electrical & Computer Engineering (University of Delaware)**  
 Machine learning, generative models, satellite imaging, and applied computer vision.  
-Actively seeking **Machine Learning / Applied Scientist / Research Scientist** roles (2025).
+Actively seeking **Machine Learning / Applied Scientist / Research Scientist** roles.
 
 📍 Newark, DE, USA  
 📫 af.ramirez236@gmail.com  
