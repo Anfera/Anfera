@@ -47,17 +47,9 @@ More on my [Google Scholar](https://scholar.google.com/citations?user=ZCrWcHEAAA
 ---
 
 ## 🎓 Education
-**University of Delaware** — Ph.D. Electrical and Computer Engineering (expected 2026)  
+**University of Delaware** — Ph.D. Electrical and Computer Engineering 
 **University of Los Andes** — M.Sc. Computer & Electronic Engineering  
 **University of Los Andes** — B.Sc. Electronic Engineering  
-
----
-
-## 🌱 Leadership & Service
-- Board Member — Hispanic/Latino Graduate Student Association  
-- Board Member — SACNAS  
-- Mentor — Graduate & Visiting Research Students  
-- Volunteer — International Outreach & Student Research Programs  
 
 ---
 
