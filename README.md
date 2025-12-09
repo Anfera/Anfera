@@ -7,9 +7,8 @@ Actively seeking **Machine Learning / Applied Scientist / Research Scientist** r
 📍 Newark, DE, USA  
 📫 af.ramirez236@gmail.com  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=ZCrWcHEAAAAJ&hl)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andres-ramirez-jaime)
-
-🔗 [Personal Site](https://anfera.github.io/)
+🔗 [LinkedIn](https://www.linkedin.com/in/andres-ramirez-jaime)  
+🌐 https://anfera.github.io/
 
 ---
 
