@@ -8,6 +8,7 @@ Actively seeking **Machine Learning / Applied Scientist / Research Scientist** r
 📫 af.ramirez236@gmail.com  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=ZCrWcHEAAAAJ&hl)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andres-ramirez-jaime)
+🔗 [Personal Site](https://anfera.github.io/)
 
 ---
 
